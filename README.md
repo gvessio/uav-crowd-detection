@@ -6,8 +6,8 @@ The proposed method is based on a two-loss model in which the main classificatio
 
 The code is written in Python. As deep learning framework, we used TensorFlow and the Keras API.
 
+<img src="images/image.jpg" width="256" height="auto"/> <img src="heatmaps/heatmap.jpg" width="256" height="auto"/>
+
 #### Acknowledgment
 
 This work was supported by the Italian Ministry of Education, University and Research within the RPASInAir Project under Grant PON ARS01_00820.
-
-<img src="images/image.jpg" width="256" height="auto"/> <img src="heatmaps/heatmap.jpg" width="256" height="auto"/>

@@ -8,11 +8,11 @@ The method may be beneficial to crowd analysis-related tasks, e.g. drone safe la
 
 The code is written in Python. As deep learning framework, we used TensorFlow and the Keras API.
 
+<img src="images/image.jpg" width="256" height="auto"/> <img src="heatmaps/heatmap.jpg" width="256" height="auto"/>
+
 ## Update
 
-We improved upon the original model by replacing the auxiliary loss based on crowd counting with a loss based on the agglomeration tendency of the crowd. This helps the model better learn the concept of "crowdedness". These results have been published in [IEEE Access](https://ieeexplore.ieee.org/document/9052702). Indeed, both models are maide available in the "models" folder.
-
-<img src="images/image.jpg" width="256" height="auto"/> <img src="heatmaps/heatmap.jpg" width="256" height="auto"/>
+We improved upon the original model by replacing the auxiliary loss based on crowd counting with a loss based on the agglomeration tendency of the crowd. This helped the model better learn the concept of "crowdedness". These results have been published in [IEEE Access](https://ieeexplore.ieee.org/document/9052702). Indeed, both models are maide available in the "models" folder.
 
 #### Acknowledgment
 

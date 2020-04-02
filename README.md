@@ -14,6 +14,6 @@ The code is written in Python. As deep learning framework, we used TensorFlow an
 
 We improved upon the original model by replacing the auxiliary loss based on crowd counting with a loss based on the agglomeration tendency of the crowd. This helped the model better learn the concept of "crowdedness". These results have been published in [IEEE Access](https://ieeexplore.ieee.org/document/9052702). Indeed, both models are maide available in the "models" folder.
 
-#### Acknowledgment
+### Acknowledgment
 
 This work was supported by the Italian Ministry of Education, University and Research within the RPASInAir Project under Grant PON ARS01_00820. The Jetson TX2 used for this research was donated by the NVIDIA Corporation.

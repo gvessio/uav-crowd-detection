@@ -16,4 +16,4 @@ We improved upon the original model by replacing the auxiliary loss based on cro
 
 #### Acknowledgment
 
-This work was supported by the Italian Ministry of Education, University and Research within the RPASInAir Project under Grant PON ARS01_00820. The Jetson TX2 used for this research was donatedby the NVIDIA Corporation.
+This work was supported by the Italian Ministry of Education, University and Research within the RPASInAir Project under Grant PON ARS01_00820. The Jetson TX2 used for this research was donated by the NVIDIA Corporation.
